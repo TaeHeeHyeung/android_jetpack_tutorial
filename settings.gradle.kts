@@ -16,3 +16,5 @@ dependencyResolutionManagement {
 rootProject.name = "My Application"
 include(":app")
 include(":app:databinding")
+include(":app:lifecycle")
+include(":app:paging")
