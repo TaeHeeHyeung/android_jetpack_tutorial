@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/coroutine" />
             <option value="$PROJECT_DIR$/app/databinding" />
             <option value="$PROJECT_DIR$/app/lifecycle" />
             <option value="$PROJECT_DIR$/app/paging" />
