@@ -7,7 +7,7 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="jbr-17" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/app/databinding" />
             <option value="$PROJECT_DIR$/app/lifecycle" />
             <option value="$PROJECT_DIR$/app/paging" />
+            <option value="$PROJECT_DIR$/app/testapplictation" />
             <option value="$PROJECT_DIR$/app/unscramble_viewmodel_livedata" />
           </set>
         </option>
